@@ -9,6 +9,15 @@
  <link rel=" stylesheet" type="text/css"href="style.css">
  </head>
   <body>
+  <header>
+   <div class="dws-menu">
+      <ul class="dws-ul">
+         <li class="dws-li"><a href="https://maksimlink185.github.io/ChporaProgramsta/index.html"><i class="fa fa-home" aria-hidden="true"></i>Сайт по ПРОГРАМУВАННЮ</a></li>
+         <li class="dws-li"><a href="https://www.instagram.com/ma.rian724/"><i class="fa fa-shopping-cart" aria-hidden="true"></i>ІНСТАГРАМ</a></li>
+         <li class="dws-li"><a href="https://maksimlink185.github.io/ChporaProgramsta/index.html"><i class="fa fa-shopping-cart" aria-hidden="true"></i>РЕКЛАМА</a></li>
+      </ul>
+   </div>
+</header>
 <div class="header" style="background-color: #340047;
     border-bottom: 3px solid #010047;
     padding-top: 12px;
@@ -18,9 +27,7 @@
     <h1 style="font-family: arial;">Вітаємо в безпека в інтернеті
 </h1></header>
   </div>
-  <form action="https://www.instagram.com/ma.rian724/" method="get"><button type="submit"style="width=:160px:height:40px;">Інстаграм</button></form>  
-<form action="https://maksimlink185.github.io/ChporaProgramsta/index.html" method="get"><button type="submit"style="width=:160px:height:40px;">Якщо ви цікаветесь програмуванням</button></form>  
-  <img src= "https://i.ytimg.com/vi/--bFR14G0dI/hqdefault.jpg" width="350px" height= "300px">
+   <img src= "https://i.ytimg.com/vi/--bFR14G0dI/hqdefault.jpg" width="350px" height= "300px">
   <img src="https://lh3.googleusercontent.com/proxy/Fsyl4dMRntkN8xxwHHZ2nUAKw1A24gJIbJymsuFfAaeVnsZzpEaFGyvLMmp67NY2LjK0E8GhTtxxYMva7Rg8s5L51dRkTpoqZWACCk--qHNfgVtfAhNrOHAAkGO2pxc"width="450px" height= "300px"
     </body><p>Привіт я вам розкажу наскільки важлива є сложнісьть пароля.
 А ви  знаєш, що хакери можуть зламати доступ до вашого акаунта в будь-яких соцмережах, Facebook чи Instagram?  Вони можуть прочитати ваші повідомлення, вкрасти особисту інформацію, розсилати твоїм друзям хакерські програми і  навіть просити в них гроші від вашого імені? Щоб захистити свої акаунти в соцмережах, увімкни двофакторну верифікацію.
